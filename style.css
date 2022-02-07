@@ -1,0 +1,43 @@
+li{
+    list-style: none;
+    margin-left: 20px;
+    padding-top: 1rem;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+img[src="Images/lap.jpeg"]{
+    height: 100vh;
+    width: 100vw;
+  
+}
+.footer{
+    height: 90px;
+    background-color:silver;
+    /* color:blue; */
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    background-color:turquoise;
+}
+ul{
+    display: flex;
+    padding: 2px;
+}
+.skills{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: wheat;
+}
+.skills>div{
+    text-align: center;
+    margin-top: 3rem;
+    width: 25vw;
+}
+.footer>p{
+   text-align: center; 
+}
+
+
+
